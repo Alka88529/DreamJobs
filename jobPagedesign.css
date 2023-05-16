@@ -1,0 +1,25 @@
+body{
+    background-color: #B9EDDD;
+    margin:0;
+}
+.header{
+    margin-left: 30%;
+    padding-top: 5px;
+    width:40%;
+    border-left: 5px green solid;
+    border-bottom: 3px black double;
+    color: green;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: white;
+    padding: 10px;
+}
+.grid-item{
+    background-color: #0cfab3;
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}

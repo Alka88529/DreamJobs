@@ -1,0 +1,87 @@
+body{
+    background-color: #ADE4DB;
+    margin:0;
+}
+.firstContainer{
+    background-color: white;
+    border:3px black solid;
+    width: 100%;
+    height:250px;
+}
+.secondContainer{
+    background-color: white;
+   /* border-top:10px;
+    border-left:  15px;
+    border-bottom:  5px;
+    border-right:  2px;*/
+    border: 2px;
+    border-color:  black; 
+    border-style: solid;
+    
+    width:100%;
+    height:250px;
+}
+.ThirdContainer{
+    background-color: white;
+    border:1px black solid;
+    width:100%;
+    height:250px;
+}
+h1{
+    text-align: center;
+    font-size: 5em;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h2{
+    text-align: center;
+    font-size: 4em;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+h3{
+    text-align: center;
+    font-size: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: white;
+    width: 100%;
+    border-bottom: 5px green solid;
+    margin: 0;
+    
+}
+.navbar-item{
+     color:green ;
+     text-align: center;
+     font: 2em sans-serif;
+}
+img{
+    position: relative;
+    background-attachment: fixed;
+    width: 100%;
+    height: 500px;
+    padding-top: 2px;
+}
+hr{
+    width: 10%;
+    border: 5px black dotted;
+}
+/*p{
+    text-align: center;
+    font: 1em sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+}*/
+.fourthContainer{
+    background-color: green;
+    border:3px white solid;
+    width: 100%;
+    height:250px;
+    
+}
+.footer{
+    background-color: black;
+    border:3px green solid;
+    width: 100%;
+    height:100px;
+}
